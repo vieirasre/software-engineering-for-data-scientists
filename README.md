@@ -18,7 +18,7 @@ It combines:
 
 ## Contents
 
-1. What Makes Good Code?
+1. [What Makes Good Code?](docs/01-what-makes-good-code.md)
 2. Writing Performant Code
 3. Data Structures
 4. Object-Oriented and Functional Programming
